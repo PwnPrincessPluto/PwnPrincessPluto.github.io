@@ -1,0 +1,9 @@
+- name: Twitch
+  description: This is a liquid tag that lets folks embed twitch clips, broadcasts, etc in their Jekyll sites.
+  url: https://princesspluto.com/jekyll-twitch
+- name: GIS
+  description: Some GIS stuff
+  url: https://princesspluto.gis.com/
+- name: Swift
+  description: The first live-coded app princesspluto built on stream.
+  url: http://princesspluto.com/
